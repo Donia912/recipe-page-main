@@ -7,8 +7,6 @@
     src: url('assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
 }
 :root{
-    width: 1440px;
-    height: 100%;
     --Dark_Raspberry: hsl(332, 51%, 32%);
     --Rose_White: hsl(330, 100%, 98%);
     --Wenge_Brown: hsl(30, 10%, 34%);
@@ -17,7 +15,6 @@
     --Eggshell: hsl(30, 54%, 90%);
     background-color: var(--Eggshell);
     padding-top: 100px;
-    padding-bottom: 100px;
 }
 .main-parent{
     width: 750px;
